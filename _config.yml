@@ -1,1 +1,20 @@
-theme: jekyll-theme-cayman
+# Site 
+
+title: 玩机屋 【你的博客名字】
+
+subtitle: 玩机屋
+
+description: 从来没有真正的绝境，只有心灵的迷途【博客首页签名】
+
+keywords: 博客,blog,玩机,福利【博客关键词】
+
+author: Dcc 【博客作者名字】
+# URL
+
+
+
+url:https://yzj1997.gitee.io【改成自己的博客地址】
+
+
+
+permalink: :year/:title/  【文章归档，年/月 加上日的话太细了，不好搞
