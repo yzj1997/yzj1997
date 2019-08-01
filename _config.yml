@@ -18,3 +18,7 @@ url: https://yzj1997.gitee.io
 
 
 permalink: :year/:title/  【文章归档，年/月 加上日的话太细了，不好搞
+
+# Extensions
+
+theme: hexo-theme-matery 【把博客默认主题修改为Matery】
