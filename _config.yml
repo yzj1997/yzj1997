@@ -1,14 +1,14 @@
 # Site 
 
-title: 玩机屋 【你的博客名字】
+title: 西湖
 
-subtitle: 玩机屋
+subtitle: 西湖
 
-description: 从来没有真正的绝境，只有心灵的迷途【博客首页签名】
+description: 我其实只想和你在一起一次
 
-keywords: 博客,blog,玩机,福利【博客关键词】
+keywords: 杭州，西湖
 
-author: Dcc 【博客作者名字】
+author: yzj1997
 # URL
 
 
@@ -17,8 +17,8 @@ url: https://yzj1997.gitee.io
 
 
 
-permalink: :year/:title/  【文章归档，年/月 加上日的话太细了，不好搞
+permalink: :2019/:8/:1
 
 # Extensions
 
-theme: hexo-theme-matery 【把博客默认主题修改为Matery】
+theme: hexo-theme-matery
